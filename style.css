@@ -1,0 +1,154 @@
+.container-fluid{
+    background-color: rgb(20, 20, 141);
+}
+.fore-ground{
+    width:70%;
+    height: 500px;
+    border: 2px solid black;
+    background-color:white;
+    margin-left: 170px;
+    margin-top: -100px;
+    border-top-left-radius: 65px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 65px;
+    border-top-right-radius: 10px;
+    box-shadow: 5px 15px 35px black;
+}
+.background{
+
+}
+.bt{
+    border: 2px solid black;
+    border-radius: 25px;
+}
+.pic1{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    justify-content: center;
+    margin-top: 520px;
+    margin-left: 100px;
+    box-shadow: 5px 15px 44px black;
+}
+.pic2{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%; 
+    margin-left: 1100px; 
+    margin-top: -650px;
+    box-shadow: 5px 15px 44px black;
+}
+.pic3{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color:rgba(127, 255, 212, 0.496);
+    margin-top: -200px;
+    position: absolute;
+    right: 230px;
+    box-shadow: 5px 5px 10px black;
+}
+.photo img{
+    margin-left: 400px;
+    width: 450px;
+    height: 450px;
+}
+.pic4{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-color:rgba(249, 103, 45, 0.496);
+    margin-top: -200px;
+    position: absolute;
+    right: 500px; 
+    bottom: 50px;
+    box-shadow: 5px 5px 10px black;
+}
+.pic5{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-color:rgba(249, 103, 45, 0.496);
+    margin-top: -540px;
+    margin-left: 100px;
+    box-shadow: 5px 5px 10px black;
+}
+.nav{
+    width: 100%;
+    text-align:center;
+    justify-content:right;
+    margin-top: -120px;
+
+}
+.nav span{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding: 5px;
+    cursor: pointer;
+}
+.nav span:hover{
+    background-color: rgb(195, 18, 18);
+    color: aliceblue;
+}
+.nav button{
+    border-radius: 30px;
+    border: 2px solid black;
+    
+}
+.text{
+   
+    margin-top: 100px;
+    width: 300px;
+    margin-left: 40px;
+}
+.ln-1{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ln-2,.ln-3{
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ln-3{
+    padding-left: 100px;
+    margin-top: -20px;
+}
+.ln-4{
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ft{
+   color: red;
+}
+.ln-5{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100px;
+    height: 100px;
+    border: 5px solid gray;
+    border-radius: 100%;
+    padding:10px;
+}
+.icons{
+    font-size: 18px;
+}
+.btns{
+    margin-left: 20px;
+}
+.btns button{
+    border: 2px solid black;
+    border-radius: 30px;
+    font-weight: bold;
+    color: rgb(214, 27, 27);
+}
